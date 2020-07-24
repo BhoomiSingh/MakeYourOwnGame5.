@@ -45,7 +45,7 @@ class Game{
         text ("You are Nova who is going to the capital to get a a job in the palace,  you",width/2-700,height/2);
         text("on your way there",width/2-200,height/2+50);
         text("you meet the demon wolf and his master who are coming in your way to", width/2-700,height/2+100);
-        text("to save your life you have to reach the catel as soon as possible", width/2-300,height/2+150);
+        text("to save your life you have to reach the castel as soon as possible", width/2-300,height/2+150);
         if(mousePressedOver(this.startButton)){
             gameState = 1;
         }
